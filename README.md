@@ -1,5 +1,3 @@
-![CircleCI status badge](circleCI.png)
-
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API.
@@ -51,5 +49,13 @@ source .devops/bin/activate
 - Setup and Configure Kubernetes locally
 - Create Flask app in Container
 - Run via kubectl
+
+## Circleci status
+
+![CircleCI status badge ](https://dl.circleci.com/status-badge/img/gh/Dienvm/udacity-cloud-devops-project4/tree/main.svg?style=svg)
+
+### CircleCI check
+
+![CircleCI ](circleCI.png)
 
 # udacity-cloud-devops-project4
